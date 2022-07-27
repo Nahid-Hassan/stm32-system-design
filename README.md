@@ -15,6 +15,7 @@
 
 - `./books/Embedded System Design with ARM - English.pdf`
 - `books/Embedded Systems with ARM Cortex-M Micro controllers in Assembly Language and C.pdf`  (You need to download this book from online (PDFDrive).)
+- [Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C](https://drive.google.com/file/d/1GQtcqgMgwYycm7m3dCZlNPXBuGKT8-cX/view?usp=sharing)
 
 **Projects**:
 
